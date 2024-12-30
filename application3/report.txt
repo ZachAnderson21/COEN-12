@@ -1,0 +1,12 @@
+Application3 Report 
+
+Runtimes:
+-createDataSet: O(1)
+-destroyDataSet: O(n)
+-searchAge: O(n)
+-searchID: O(n)
+-insertion: O(1)
+-deletion: O(n)
+-maxAgeGap: O(1)
+
+I used a circularly double linked list as my datastructure. I feel this was the best way to sort. 
